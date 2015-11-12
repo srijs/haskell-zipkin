@@ -3,7 +3,7 @@
 
 name:                zipkin
 version:             0.1.0.0
--- synopsis:            
+synopsis:            Zipkin-style request tracing monad
 -- description:         
 homepage:            https://github.com/srijs/haskell-zipkin
 license:             MIT
